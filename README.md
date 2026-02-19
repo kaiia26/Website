@@ -12,7 +12,8 @@ the act of uncovering a page and discovering something new, much like unearthing
 a use in our daily lives, such as sharing this newfound knowledge with our friends, or is kept close to the heart, the act of uncovering something new and a joy for learning is a feeling I wish to recreate in my website. My
 end goal for this website is to provide a user-friendly interface while also retaining the style of the old web at heart.
 
-
+## Development
+This website is still a work in progress and not all the features have been added or implemented yet.
 ## License
 
 This project is licensed under the [Kaia Perez Hvala] License
